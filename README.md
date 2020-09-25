@@ -1,6 +1,4 @@
 # it3038c-scripts
-```javascript
-Javascript code block
 
-###Hello
-###It's me
+Hello
+It's me
