@@ -1,11 +1,15 @@
 # it3038c-scripts
+```bash
 PROJECT 2
+```
 I expanded on my original calculator to make one with more features. This calculator can do addition, subtraction, multiplication, and division. 
 After running the script you will enter either +, -, *, or / depending on what you want the calculator to do. You will then press enter, select your fist number, 
 and press enter again. Then, after entering your second number and pressing enter the script will calculate your two numbers.
 
 
-
+```bash 
+LAB 7
+```
 I used the plugin Pillow. To start, create a virtual environment, activate it, and install pillow with the following commands
 ```bash
 virtualenv ~/venv/pillow
