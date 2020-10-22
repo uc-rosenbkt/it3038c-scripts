@@ -8,7 +8,7 @@ To run the script you will have to first enter the C:\it3038c-scripts/ directory
 python python/calculator.py
 ```
 After running the script you will enter either +, -, *, or / depending on what you want the calculator to do. You will then press enter, select your fist number, 
-and press enter again. Then, after entering your second number and pressing enter the script will calculate your two numbers.
+and press enter again. Then, after entering your second number and pressing enter the script will calculate your two numbers. I used the link for a python calculator from Lab 1 as a resource. 
 
 
 ```bash 
