@@ -3,7 +3,7 @@
 PROJECT 2
 ```
 I expanded on my original calculator to make one with more features. This calculator can do addition, subtraction, multiplication, and division. 
-To run the script you will have to first enter the C:\it3038c-scripts/ directory and run 
+To run the script you will have to first enter the C:\it3038c-scripts/ directory and run it
 ```python
 python python/calculator.py
 ```
