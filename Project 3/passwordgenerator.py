@@ -46,6 +46,6 @@ elif operation == '4':
         print("Random alphanumeric/special characters password is:", password)
         # Looped 10 times
     get_random_password_string(10)
-
+# If you do not enter a number 1-4 you will get this
 else:
     print('You have not entered a valid value, please run the program again')
